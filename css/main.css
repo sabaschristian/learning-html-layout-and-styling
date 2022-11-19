@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+}
+
+.first-paragraph{
+    margin-top: 70px;
+}
+
+.whale-img{
+    text-align: center;
+}
+
+.moby-dick-container{
+    width: 500px;
+    padding: 20px;
+    margin: 20px 0px 0 390px;
+}
+
+.moby-dick-container img{
+    height: 200px; float: left; margin-right: 30px;
+}
+
+blockquote{
+    font-style: italic; 
+    font-size: 20px;
+}
+
+span{
+    font-style: normal; 
+    font-size: 24px; 
+    font-weight: bold; 
+    color: #ff0000;
+}
